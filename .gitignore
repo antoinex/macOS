@@ -1,2 +1,3 @@
-# macOS files/directories to ignore
-.DS_Store
+# Ignore OS generated files recursively from this directory
+# =========================================================
+**.DS_Store

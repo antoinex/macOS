@@ -1,0 +1,10 @@
+Instructions to setup the firefox private-window launcher
+=========================================================
+1 - Create ~/Scripts directory.
+2 - Copy ff.sh into ~/Scripts.
+3 - Open ff.scpt in Script Editor.
+4 - Fix the path to ff.sh in ff.scpt by replacing 'antoinex' with your username
+5 - In the Script Editor menu, click on File -> Export...
+6 - Choose 'Application' as the File Format.
+7 - Save to ~/Scripts, or /Application or a desired location.
+
